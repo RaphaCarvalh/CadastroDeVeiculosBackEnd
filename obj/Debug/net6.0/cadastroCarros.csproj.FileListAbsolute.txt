@@ -1,0 +1,15 @@
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.csproj.AssemblyReference.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.AssemblyInfoInputs.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.AssemblyInfo.cs
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.csproj.CoreCompileInputs.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\bin\Debug\net6.0\cadastroCarros.exe
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\bin\Debug\net6.0\cadastroCarros.deps.json
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\bin\Debug\net6.0\cadastroCarros.runtimeconfig.json
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\bin\Debug\net6.0\cadastroCarros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\bin\Debug\net6.0\cadastroCarros.pdb
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\refint\cadastroCarros.dll
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.pdb
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\cadastroCarros.genruntimeconfig.cache
+D:\Estudos\DEvinHouse\DevInHouseProjetos\ModuloDois\SemanaDois\Exercicios\cadastroCarros\obj\Debug\net6.0\ref\cadastroCarros.dll
